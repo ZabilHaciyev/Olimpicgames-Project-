@@ -1,0 +1,14 @@
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\BaseApp.exe.config
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\BaseApp.exe
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\BaseApp.pdb
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\EntityFramework.dll
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\EntityFramework.xml
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.csprojAssemblyReference.cache
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.csproj.CoreCompileInputs.cache
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.csproj.CopyComplete
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.exe
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.pdb
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.Migrations.AddOlimpicGameDB.resources
+C:\Users\zabil\source\repos\OlimpicGames\BaseApp\obj\Debug\BaseApp.csproj.GenerateResource.cache
